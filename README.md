@@ -24,6 +24,8 @@ I enjoy building seamless, scalable, and user-friendly solutions with clean code
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -41,7 +43,7 @@ I enjoy building seamless, scalable, and user-friendly solutions with clean code
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumarrasheed&layout=compact&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=muhammadumarrasheed&theme=radical&margin-w=10&margin-h=10&no-frame=true)
+![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=muhammadumarrasheed&theme=radical)
 
 ---
 
