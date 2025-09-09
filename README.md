@@ -39,17 +39,19 @@ I enjoy building seamless, scalable, and user-friendly solutions with clean code
 
 ## 📊 GitHub Stats
 
-![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadumarrasheed&show_icons=true&theme=radical&count_private=true)
+![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadumarrasheed&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumarrasheed&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumarrasheed&layout=compact&theme=dark)
 
 ---
 
 ## 🔥 Contributions in 2025
 
-![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=muhammadumarrasheed&theme=radical)
+<!-- Count on top (focused on commits; hides empty bits) -->
+![Commits This Year](https://github-readme-stats.vercel.app/api?username=muhammadumarrasheed&theme=dark&count_private=true&include_all_commits=true&hide=prs,issues,contribs,stars&custom_title=Commits%20in%202025)
 
-![Contributions Badge](https://badges.pufler.dev/commits/monthly/muhammadumarrasheed)
+<!-- Graph below in dark theme -->
+![Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadumarrasheed&theme=github-dark&area=true&hide_border=true)
 
 ---
 
