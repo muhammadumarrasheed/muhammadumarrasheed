@@ -43,7 +43,13 @@ I enjoy building seamless, scalable, and user-friendly solutions with clean code
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumarrasheed&layout=compact&theme=radical)
 
+---
+
+## 🔥 Contributions in 2025
+
 ![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=muhammadumarrasheed&theme=radical)
+
+![Contributions Badge](https://badges.pufler.dev/commits/monthly/muhammadumarrasheed)
 
 ---
 
