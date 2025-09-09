@@ -4,7 +4,8 @@ I’m a Software Engineer and Full-Stack Developer with a strong focus on **resp
 I enjoy building seamless, scalable, and user-friendly solutions with clean code and modern design.
 
 🌐 Portfolio: [https://praidux.com](https://praidux.com)  
-📧 Email: your-email@example.com  
+💼 LinkedIn: [https://www.linkedin.com/in/umarsipra/](https://www.linkedin.com/in/umarsipra/)  
+📧 Email: umar@meetpraidux.com  
 
 ---
 
@@ -36,11 +37,9 @@ I enjoy building seamless, scalable, and user-friendly solutions with clean code
 
 ## 📊 GitHub Stats
 
-![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadumarrasheed&show_icons=true&theme=radical)
+![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadumarrasheed&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumarrasheed&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadumarrasheed&theme=radical)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=muhammadumarrasheed&theme=radical&margin-w=10&margin-h=10&no-frame=true)
 
