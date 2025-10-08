@@ -4,8 +4,6 @@ I’m a Software Engineer and Full-Stack Developer with a strong focus on **resp
 I enjoy building seamless, scalable, and user-friendly solutions with clean code and modern design.
 
 🌐 Portfolio: [https://praidux.com](https://praidux.com)  
-💼 LinkedIn: [https://www.linkedin.com/in/umarsipra/](https://www.linkedin.com/in/umarsipra/)  
-📧 Email: umar@meetpraidux.com  
 
 ---
 
