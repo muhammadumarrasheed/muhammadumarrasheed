@@ -3,8 +3,6 @@
 I’m a Software Engineer and Full-Stack Developer with a strong focus on **responsive websites** and **mobile applications**.  
 I enjoy building seamless, scalable, and user-friendly solutions with clean code and modern design.
 
-🌐 Portfolio: [https://praidux.com](https://praidux.com)  
-
 ---
 
 ## 🛠️ Tech Stack
