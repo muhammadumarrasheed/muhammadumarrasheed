@@ -1,12 +1,12 @@
 # Hi, I'm Umar
 
-I am a full stack developer who works across mobile, backend and web technologies. I focus on building applications that are reliable, easy to maintain and simple for users to interact with. Most of my work is for clients and lives in private repositories, but this profile shows the tools I use regularly.
+I am a full stack developer who works across mobile, backend and web technologies. I focus on building applications that are reliable, easy to maintain and simple for users to interact with. Most of my work is for clients and kept in private repositories, but this overview reflects the tools I use regularly.
 
 ---
 
 ## Mobile App Development
 
-I build high quality mobile applications for iOS and Android. This includes cross-platform development and native development when a project requires it. My work covers UI, state management, app logic, API integration, authentication and deployment pipelines.
+I build high quality mobile applications for iOS and Android. This includes cross-platform work and native development when needed. I handle UI development, app logic, API integration, authentication, performance and deployment.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
@@ -16,13 +16,13 @@ I build high quality mobile applications for iOS and Android. This includes cros
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
-I also use Firebase App Distribution for testing and delivery.
+I also work with Firebase App Distribution for internal testing.
 
 ---
 
 ## Backend Development
 
-I work with Python and FastAPI for building APIs and backend services. I also use Node.js and Express for JavaScript based projects. My experience includes authentication, payments, automation, data handling and integrations with external services.
+I build backend services with Python and FastAPI, and use Node.js and Express when a JavaScript-based solution fits better. My work includes authentication, data processing, payment systems, business logic and external integrations.
 
 ### Python
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
@@ -42,8 +42,14 @@ I work with Python and FastAPI for building APIs and backend services. I also us
 
 ## CI and CD
 
-I use continuous integration and deployment tools to keep builds consistent and releases predictable. This includes automated testing, container builds, server deployment and mobile release pipelines.
+I use continuous integration and deployment practices to keep builds predictable and deployments stable.  
+My workflows include infrastructure setup, containerisation, automated testing, cloud hosting and mobile release pipelines.
 
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+
+### Automation and Deployment
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
 ![Docker CI/CD](https://img.shields.io/badge/Docker_CI/CD-2496ED?style=for-the-badge&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
@@ -51,11 +57,19 @@ I use continuous integration and deployment tools to keep builds consistent and 
 ![Firebase CI](https://img.shields.io/badge/Firebase_CI-FFA611?style=for-the-badge&logo=firebase)
 ![Supabase Migrations](https://img.shields.io/badge/Supabase_Migrations-3ECF8E?style=for-the-badge&logo=supabase)
 
+### App Store and Play Store Delivery
+I manage publishing and delivery for both iOS and Android applications.
+
+![App Store Connect](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=apple)
+![Android Play Console](https://img.shields.io/badge/Google_Play_Console-34A853?style=for-the-badge&logo=googleplay)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane)
+![Transporter](https://img.shields.io/badge/Apple_Transporter-000000?style=for-the-badge&logo=apple)
+
 ---
 
 ## AI Tools
 
-I use AI tools in projects where automation, text analysis or image processing is required. This includes model APIs, embeddings, speech tools and lightweight machine learning models.
+I use AI tools in projects where automation, text processing or image based features are required. This includes API based models, speech tools and lightweight machine learning components.
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google)
@@ -67,7 +81,7 @@ I use AI tools in projects where automation, text analysis or image processing i
 
 ## Web Development
 
-I build responsive and accessible websites using modern frameworks. I use TypeScript for type safety and Tailwind CSS for clean styling.
+I build responsive and accessible web applications using modern frameworks. I use TypeScript for type safety and Tailwind CSS for styling.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -90,4 +104,4 @@ I build responsive and accessible websites using modern frameworks. I use TypeSc
 
 ---
 
-Most of my client work is kept in private repositories, so public activity does not fully represent the range of projects I work on.
+Most of my client projects are private, so public activity does not represent the full scope of my work.
